@@ -1,4 +1,10 @@
-Tableau : https://public.tableau.com/views/OnlineRetailUCiAnalysis/RetailSalesAnalysisDashboardDecember2009?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Data Visualization: https://public.tableau.com/views/OnlineRetailUCiAnalysis/RetailSalesAnalysisDashboardDecember2009?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Scatterplot: Shows Customer Purchase Frequency vs. Average Spending.
+Table: Displays the Top 10 Countries by Total Spending.
+Bar Chart: Illustrates the Top 5 Selling Products by Quantity Sold.
+Line Chart: Represents Peak Hour for Each Day (1-14 Dec).
+
 
 Dataset
 Source: Kaggle
@@ -34,15 +40,6 @@ Daily Customer Spending: Analyzes daily spending by each customer.
 Total Sales and Quantity Sold by Country Each Day: Provides daily sales and quantity sold for each country.
 
 Peak Sales Hours: Identifies peak sales hours.
-
-
-Data Visualization:
-Scatterplot: Shows Customer Purchase Frequency vs. Average Spending.
-Table: Displays the Top 10 Countries by Total Spending.
-Bar Chart: Illustrates the Top 5 Selling Products by Quantity Sold.
-Line Chart: Represents Peak Hour for Each Day (1-14 Dec).
-
-
 
 Contact
 
